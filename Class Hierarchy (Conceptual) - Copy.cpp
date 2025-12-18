@@ -1,0 +1,6 @@
+// Vehicle (base)
+// |
+// +-- Car
+// |
+// +-- Truck
+
